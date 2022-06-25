@@ -1,0 +1,21 @@
+package lamdaExpression;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Problem7 {
+
+	public static void main(String[] args) {
+		List<String> join = new ArrayList<>();
+
+		join.add("hello");
+		join.add("world");
+		join.add("this");
+		join.add("is");
+		join.add("lamda");
+		join.add("problem");
+		join.add("assignment");
+
+	}
+
+}

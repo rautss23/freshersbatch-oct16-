@@ -1,0 +1,47 @@
+package practice;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
+public class solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Person> people=Arrays.asList(
+				new Person("Charles","Dickens",23),
+				new Person("Lewis","Carell",15),
+				new Person("Thomas","Calyle",45),
+				new Person("Matthew","Bronte",42),
+				new Person("Charlote","Arnold",39)
+				);
+		
+		Collections.sort(people, new Comparator<Person>() {
+
+			@Override
+			public int compare(Person o1, Person o2) {
+				
+				return o1.getLastName().compareTo(o2.getLastName());
+			}
+		});
+		
+		printAll(people);
+		printLastNameBeginningWithC(people);
+
+	}
+	private static void printLastNameBeginningWithC(List<Person> people) {
+		for(Person p:people) {
+			if(p.getLastName().startsWith("C")) {
+				System.out.println(p);
+			}
+		}
+		
+	}
+	public static void printAll(List<Person>people) {
+		for(Person p:people) {
+			System.out.println(p);
+		}
+	}
+
+}

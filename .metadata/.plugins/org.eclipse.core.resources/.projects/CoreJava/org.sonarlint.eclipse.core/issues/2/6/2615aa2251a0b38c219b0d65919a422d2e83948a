@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÅ¢úıÿÿÿÿ8ç¿µ¢™0HÈRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğ²×ÙH¿RMINORZ
+CODE_SMELL
+„	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«çóğûÿÿÿÿ8ç¿µ¢™0HÂRMINORZ
+CODE_SMELL
+x
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ŒÅ¢úıÿÿÿÿ8ç¿µ¢™0HÆRMINORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ç¿µ¢™0HÄRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Ó¶çşÿÿÿÿ8ç¿µ¢™0HÃRMAJORZ
+CODE_SMELL

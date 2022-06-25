@@ -1,0 +1,19 @@
+
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÃ‘ÇûÿÿÿÿHÑRMINORZ
+CODE_SMELL
+l
+java:S2184"BCast one of the operands of this division operation to a "double".(ŠÎõ¥øÿÿÿÿHÒRMINORZBUG
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÜá¶üÿÿÿÿHÓRMINORZ
+CODE_SMELL
+V
+java:S3457"%String contains no format specifiers.(ü˜½©øÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ü˜½©øÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(´ŸËêùÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+Q
+java:S3457"%String contains no format specifiers.(žá¿¶H×RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(žá¿¶HØRMAJORZ
+CODE_SMELL

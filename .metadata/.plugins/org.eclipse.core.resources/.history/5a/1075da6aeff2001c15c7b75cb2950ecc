@@ -1,0 +1,42 @@
+package practice;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.function.Predicate;
+
+public class solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Person> people = Arrays.asList(new Person("Charles", "Dickens", 23), new Person("Lewis", "Carell", 15),
+				new Person("Thomas", "Calyle", 45), new Person("Matthew", "Bronte", 42),
+				new Person("Charlote", "Arnold", 39));
+
+		Collections.sort(people, (p1, p2) -> p1.getLastName().compareTo(p2.getLastName()));
+		System.out.println("All peoples");
+		printConditionally(people, p -> true);
+//		printLastNameBeginningWithC(people);
+
+		System.out.println("All peoples");
+		printConditionally(people, p -> p.getLastName().startsWith("C"));
+
+		System.out.println("first name start with c");
+		printConditionally(people, p ->p.getFirstName().startsWith("C"));
+	}
+
+	private static void printConditionally(List<Person> people, Predicate predicate) {
+		for (Person p : people) {
+			if (predicate.test(p)) {
+				System.out.println(p);
+			}
+		}
+
+	}
+
+}
+
+interface Condition {
+	boolean test(Person p);
+}

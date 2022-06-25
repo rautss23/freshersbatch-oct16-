@@ -1,0 +1,26 @@
+
+|	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ÚŒ·HÙRMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ÕÖ¹HÚRMINORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òæÆøÿÿÿÿHÛRMINORZ
+CODE_SMELL
+}	java:S1019"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑÃ›¤ùÿÿÿÿHÜRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÜá¶üÿÿÿÿHİRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÌıâëùÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.( ›æÔÿÿÿÿÿHßRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(â‰ÙùÿÿÿÿHàRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÌœ£ÿÿÿÿÿHáRMAJORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óî ÀHâRMINORZ
+CODE_SMELL
+d	java:S1060"9Replace this use of System.out or System.err by a logger.(†˜ÍHãRMAJORZ
+CODE_SMELL
+R
+java:S19050"&Remove this unnecessary cast to "int".(†˜ÍHäRMINORZ
+CODE_SMELL

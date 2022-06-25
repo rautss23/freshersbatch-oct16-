@@ -1,0 +1,40 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·÷ÇÿHbRMINORZ
+CODE_SMELL
+–
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ìö™ˆÿÿÿÿÿ8Ñ”ƒú˜0HdRMAJORZ
+CODE_SMELL
+‘
+java:S1149#"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(·­Şİ8Ñ”ƒú˜0HeRMAJORZ
+CODE_SMELL
+‘
+java:S1149'"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰´—Ä8Ñ”ƒú˜0HfRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(±“‰¿üÿÿÿÿ8Ñ”ƒú˜0HgRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8Ñ”ƒú˜0HhRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(úã³•8Ñ”ƒú˜0HiRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(—Áé8Ñ”ƒú˜0HjRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ°Õ¶şÿÿÿÿ8Ñ”ƒú˜0HkRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ê“…¨8Ñ”ƒú˜0HlRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¹¢­ùÿÿÿÿ8Ñ”ƒú˜0HmRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Á…”À8Ñ”ƒú˜0HnRMAJORZ
+CODE_SMELL
+o	java:S106!"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8Ñ”ƒú˜0HoRMAJORZ
+CODE_SMELL
+o	java:S106%"9Replace this use of System.out or System.err by a logger.(Î¨Œåúÿÿÿÿ8Ñ”ƒú˜0HpRMAJORZ
+CODE_SMELL
+j	java:S106("9Replace this use of System.out or System.err by a logger.(óŞÅ8Ñ”ƒú˜0HqRMAJORZ
+CODE_SMELL
+o	java:S1061"9Replace this use of System.out or System.err by a logger.(¶·¶”şÿÿÿÿ8Ñ”ƒú˜0HrRMAJORZ
+CODE_SMELL
+j	java:S1065"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8Ñ”ƒú˜0HsRMAJORZ
+CODE_SMELL
+j	java:S1068"9Replace this use of System.out or System.err by a logger.(¦Øßí8Ñ”ƒú˜0HtRMAJORZ
+CODE_SMELL

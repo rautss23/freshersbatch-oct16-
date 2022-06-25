@@ -1,0 +1,17 @@
+package com.junit;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MathAddTest {
+
+	@Test
+	void test() {
+		MathAdd mathAdd=new MathAdd();
+		int expected=2;
+		int actual=mathAdd.add(1,1);
+		assertEquals(expected, actual);
+	}
+
+}

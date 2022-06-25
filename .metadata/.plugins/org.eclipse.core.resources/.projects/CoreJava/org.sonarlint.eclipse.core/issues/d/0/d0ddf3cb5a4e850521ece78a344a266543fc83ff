@@ -1,0 +1,28 @@
+
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Éê–„™0HÓRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‡ºæÌ8¡ëƒ™0HØRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•Á›äÿÿÿÿÿ8ªƒØ™0H×RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(®³ó™8†šê„™0HèRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(åµŒÓ8Ú¬òƒ™0HÚRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(·°¼8ì™0HÙRMAJORZ
+CODE_SMELL
+x
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(•Á›äÿÿÿÿÿ8†šê„™0HäRMINORZ
+CODE_SMELL
+w	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âš6HRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÉœÌŠ8†šê„™0HëRMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHRINFOZ
+CODE_SMELL
+s
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(·°¼8†šê„™0HæRMINORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(ï˜õO8žù÷ù˜0HPRMAJORZ
+CODE_SMELL
+ƒ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôŸûÝüÿÿÿÿ8žù÷ù˜0HQRMINORZ
+CODE_SMELL
+x
+java:S2133"ARemove this object instantiation and use "testing.class" instead.(èÎö÷ûÿÿÿÿ8žù÷ù˜0HRRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(›ºÇ˜ùÿÿÿÿ8žù÷ù˜0HSRMAJORZ
+CODE_SMELL
+¶
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜŽˆ¤8žù÷ù˜0HTRCRITICALZ
+CODE_SMELL
+¶
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ýÞ°û8žù÷ù˜0HVRCRITICALZ
+CODE_SMELL
+Y
+java:S1068"'Remove this unused "pin" private field.(ÇõÕ›8žù÷ù˜0HXRMAJORZ
+CODE_SMELL

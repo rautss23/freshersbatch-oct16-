@@ -1,0 +1,11 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ð²×ÙH®RMINORZ
+CODE_SMELL
+g
+java:S1611"/Remove the parentheses around the "c" parameter(Ö¨ÿÙûÿÿÿÿ8äÔ…¢™0H°RMINORZ
+CODE_SMELL
+t
+java:S1126"AReplace this if-then-else statement by a single return statement.(ôÎëå8äÔ…¢™0H±RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÄ °ùÿÿÿÿ8äÔ…¢™0H²RMAJORZ
+CODE_SMELL
