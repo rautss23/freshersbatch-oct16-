@@ -54,6 +54,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="junit1"/>
 			<item value="junit"/>
 			<item value="demo"/>
 			<item value="DemoAsp"/>
