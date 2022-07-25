@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+	<bean id="Question1" class="com.example2.Question1">
+		<constructor-arg index="0" type="int" value="1" />
+		<constructor-arg index="1" value="question1?" />
+		<constructor-arg index="2">
+			<list>
+				<value>answer1</value>
+			</list>
+		</constructor-arg>
+	</bean>
+
+	<bean id="Question2" class="com.example2.Question2">
+		<constructor-arg index="0" type="int" value="2" />
+		<constructor-arg index="1" value="question2?" />
+		<constructor-arg index="2">
+			<set>
+				<value>answer2</value>
+			</set>
+		</constructor-arg>
+	</bean>
+
+	<!--  <bean id="Question3" class="com.example2.Question3">
+		<constructor-arg index="0" type="int" value="3" />
+		<constructor-arg index="1" value="question3?" />
+		<constructor-arg index="2">
+		
+			<map key-type="java.lang.Integer" value-type="java.lang.String" >
+				<entry key="3"
+					value="Answer 3" />
+			</map>
+			
+		</constructor-arg>
+	</bean>-->
+
+</beans>
